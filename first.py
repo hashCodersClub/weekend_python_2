@@ -1,10 +1,8 @@
-from calc import sum,sub,div,mul
+from D2 import Square
 
-print(sum(6,9))
-print(sub(6,9))
-print(mul(6,9))
-print(div(6,9))
+sq = Square()
 
+print(sq.area(4))
 
 
 

@@ -8,3 +8,10 @@ Types of module
 # Packages :-
 
 - folder/directory/location
+
+# class Shape -> 1. area 2. circumference
+
+shape -> circle
+shape -> square
+
+area circle
